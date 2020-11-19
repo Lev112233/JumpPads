@@ -1,0 +1,12 @@
+name: JumpPads
+author: qKing12
+main: me.qKing12.JumpPads.Main
+description: Jump Pads made with love by qKing12
+softdepend: [HolographicDisplays]
+version: "1.0"
+
+commands:
+  jumppads:
+    aliases: [jumppad]
+    permission: op
+    description: Jump Pads Command
