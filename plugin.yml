@@ -1,7 +1,6 @@
 name: JumpPads
-author: qKing12
-main: me.qKing12.JumpPads.Main
-description: Jump Pads made with love by qKing12
+author: Lev_112233 
+main: me.Main
 softdepend: [HolographicDisplays]
 version: "1.0"
 
